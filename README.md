@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=180&section=header&text=Winnie%20Njoroge&fontSize=52&fontColor=c0caf5&desc=Aspiring%20Data%20Scientist%20%7C%20Python%20%E2%80%A2%20ML%20%E2%80%A2%20Storytelling%20with%20Data&descSize=16&descAlignY=72&animation=fadeIn)
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analysis.;Machine+Learning.;Making+data+speak+%E2%80%94+one+model+at+a+time.)](https://git.io/typing-svg)
+
 
 ---
 
