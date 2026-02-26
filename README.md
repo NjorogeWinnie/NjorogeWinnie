@@ -132,10 +132,4 @@
 
 </div>
 
-<br/>
 
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=80&section=footer&animation=fadeIn)
-
-</div>
