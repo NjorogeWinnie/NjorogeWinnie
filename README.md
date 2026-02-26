@@ -22,7 +22,6 @@
 | | |
 |:---:|:---|
 | 📍 | Based in Kenya |
-| 🎓 | Studying Data Science @ Moringa School |
 | 💡 | Passionate about Machine Learning, Data Visualisation & Predictive Analytics |
 | 🔭 | Currently building a Personal Finance Tracker |
 | 📖 | Fun fact: I enjoy finding patterns in data more than I probably should |
